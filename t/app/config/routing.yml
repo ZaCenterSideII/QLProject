@@ -1,0 +1,8 @@
+cmm_screen_cast_sample:
+    resource: "@CMMScreenCastSampleBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation

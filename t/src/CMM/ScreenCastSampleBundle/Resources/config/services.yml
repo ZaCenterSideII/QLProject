@@ -1,0 +1,4 @@
+services:
+#    cmm_screen_cast_sample.example:
+#        class: CMM\ScreenCastSampleBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
